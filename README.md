@@ -47,8 +47,13 @@ Using **LabVIEW** with a **DAQ interface**, the system performs real-time data a
 ## LabView Control
 LabVIEW collects and processes sensor data through the DAQ, controls actuators like the servo clamp, calculates flow rate, and displays a real-time dashboard for monitoring system status and alerts.
 
-![Circuit Diagram](path_to_circuit_image)  
-![LabVIEW Dashboard](path_to_dashboard_image)  
+<img width="600" height="450" alt="Screenshot 2025-09-21 140541" src="https://github.com/user-attachments/assets/37e23e2e-449e-4188-953c-e3ecdd567942" />
+
+
+
+<img width="450" height="500" alt="Screenshot 2025-09-21 140606" src="https://github.com/user-attachments/assets/6b0226e1-d7a8-4949-a4fb-b7d81d29e5e1" />
+
+
 
 ---
 
